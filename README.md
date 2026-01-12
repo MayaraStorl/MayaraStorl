@@ -5,11 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/storl_may?igsh=ZzdpZHFlbXNjYzNn)
 
 
-
-![Mayara GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraStorl&show_icons=true&theme=dracula)
-
-
-
 ### Tecnologias com que eu trabalho:
 
 <div style="display: inline_block"><br/>
